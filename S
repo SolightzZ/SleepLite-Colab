@@ -1,0 +1,37 @@
+### ข้อมูลเบื้องต้นของ iSMP Server
+iSMP Server ใช้ Fabric ในการรันเซิร์ฟเวอร์ ซึ่งจะลง Mod บางตัวเอาไว้ ส่วนใหญ่จะเป็นการแก้บั๊กเล็ก ๆ น้อย ๆ ไม่ได้เปลี่ยน Gameplay มากนัก
+ภาพรวมเราจะเรียกว่า AddonPack Vanilla และยังมี AddonPack เข้ามาเสริมด้วย
+
+* Minecraft Version : 1.17.41
+* Server : Fabric
+* Seed : `-7379792621391092139` (Shadow Seed)
+
+### AddonPack List :
+- Cave and Cliffs Preview (Cave Gen Mod Built-in)
+- [Vanilla Tweaks](https://vanillatweaks.net/)
+   * AFK Display
+   * Armor Statues
+   * Cauldron Concrete
+   * Wandering Trades
+
+### Private AddonPack List :
+- Inventory Packs
+    * Recipes ต่าง ๆ
+    * Entity Drops
+      - Ender Dragon ดรอป Elytra/Dragon Head
+      - Player ดรอปหัว
+      - Shulker ดรอป 2 Shulker Shell และสุ่มดรอป Shulker Box
+- Faster Break Block by RKGz
+
+
+### Cave Gen
+ดัดแปลงจากตัวต้นแบบของ SuperCoder7979 และปรับให้ Dripstone/Lush Cave เจอง่ายขึ้น
+- แก้บั๊ก Built-in Structure ไม่เจนกล่องหรือ Block Entity
+- Lush Cave เจอได้ในไบโอม Forest, Flower Forest, Birch Forest, Dark Forest, Jungle, Mushroom Island
+- Dripstone Cave เจอได้ในไบโอมจำพวก Extreme Hills, Taiga, Mesa, Desert, Icy, Savanna, Swamp
+- ทำให้ฝนหรือหิมะไม่ตกใน Biome ถ้ำ
+- แก้บั๊กฝนหรือหิมะ Render ไม่ถูกต้อง
+
+### iSMPUtils
+- แก้ให้ Skull ดรอปพร้อม Custom Name
+- 
