@@ -1,7 +1,7 @@
 
  # ข้อมูลเบื้องต้นของ Sleeplite Season 2 Server
   Sleeplite Server ใช้ ?ในการรันเซิร์ฟเวอร์ ซึ่งจะลง AddonPack ไว้แล้วไม่ได้เปลี่ยน Gameplay มากนัก
-    ภาพรวมเราจะเรียกว่า AddonPack Vanilla 
+  ภาพรวมเราจะเรียกว่า AddonPack Vanilla 
 
  Minecraft BedRock Version : 1.17.41
  Server : ?
@@ -11,24 +11,26 @@
  #AddonPack List 
  
  PLayer AddonPack List :
-  - Stick สามารถ Zoom ได้
-  - Stone_axe สามารถ ตัดต้นไม้หายทั้งต้น
+  - Stick            สามารถ Zoom ได้
+  - Stone_axe        สามารถ ตัดต้นไม้หายทั้งต้น
   - Totem_of_undying สามารถ ดูดไอเทมได้
-  - Nautilus_shell สามารถ ได้night_vision 
-  - Bed สามารถ นอนคนเดี่ยวได้
+  - Nautilus_shell   สามารถ ได้ night_vision 
+  - Bed              สามารถ นอนคนเดี่ยวได้
+  -
 
  Entitie AddonPack List :
-  - Ender Dragon ดรอป Elytra / Dragon Egg
-  - creeper ดรอป Gunpowder 2 เท่า
+  - Ender Dragon                 ดรอป Elytra / Dragon Egg
+  - creeper                      ดรอป Gunpowder 2 เท่า
   - Shulker ดรอป 2 Shulker Shell และสุ่มดรอป Shulker Box
   - Donkey / Horse / Mule / Skeleton_horse / Strider สามารถขี่ได้ 2 คน
-  - fishing ดรอป treasure ง่ายขึ้น
-  - Wandering_Trader ปรับการซื้อของ
-  - Villager ปรับการซื้อของ ทุกตัว
+  - fishing                      ดรอป treasure ง่ายขึ้น
+  - Wandering_Trader             ปรับการซื้อของ
+  - Villager                     ปรับการซื้อของ ทุกตัว
   - 
   
   Block AddonPack List :
   - Block Sleeplite 
+  -
   
   Crafting AddonPack List :
   - blocks
@@ -37,22 +39,25 @@
   - specials
   - stonecutters
   - Crafting อีก 100 กว่าสูตรคราฟ
+  -
   
   Nametag AddonPack List :
-  - chicken โชว์ชื่อตลอด เวลาใส่ Nametag 
-  - Cow โชว์ชื่อตลอด เวลาใส่ Nametag 
+  - chicken    โชว์ชื่อตลอด เวลาใส่ Nametag 
+  - Cow        โชว์ชื่อตลอด เวลาใส่ Nametag 
   - iron_golem โชว์ชื่อตลอด เวลาใส่ Nametag 
-  - sheep โชว์ชื่อตลอด เวลาใส่ Nametag 
+  - sheep      โชว์ชื่อตลอด เวลาใส่ Nametag 
   - snow_golem โชว์ชื่อตลอด เวลาใส่ Nametag 
-  - villager โชว์ชื่อตลอด เวลาใส่ Nametag 
-  - wolf โชว์ชื่อตลอด เวลาใส่ Nametag 
+  - villager   โชว์ชื่อตลอด เวลาใส่ Nametag 
+  - wolf       โชว์ชื่อตลอด เวลาใส่ Nametag 
   - zombie_villager โชว์ชื่อตลอด เวลาใส่ Nametag 
+  -
   
   
   #Resource Packs List 
   
   Painting Resource Packs List :
   - painting รูปภาพภายใน Sever
+  -
   
   record Resource Packs List :
   - dis 13 เพลง
@@ -68,6 +73,7 @@
   - dis Strad เพลง
   - dis Ward เพลง
   - dis Wait เพลง
+  -
   
   Txext Resource Packs List :
   - en_US รับรองเฉพาะ ถาษา US
@@ -80,3 +86,4 @@
   - TNT - Dangerous
   -  Stick - Zoom
   - Items และอื่นๆ
+  -
