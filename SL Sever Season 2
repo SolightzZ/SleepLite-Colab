@@ -26,6 +26,13 @@
   - fishing ดรอป treasure ง่ายขึ้น
   - Wandering_Trader ปรับการซื้อของ
   - Villager ปรับการซื้อของ ทุกตัว
+  - zombie ลดความเร็ว / ลดดาเมจ
+  - spider เพิ่มเลือด / เพิ่มดาเมจ
+  - slime ลดดาเมจ / ลดเลือด
+  - magma cube  ลดดาเมจ / ลดเลือด
+  - creeper ลดเลือด / ลดความเร็ว
+  - vex ลดเลือด / ลดความเร็ว
+  - Ghast ลดเลือด / ลดความเร็ว
   - 
   
   Block AddonPack List :
@@ -54,6 +61,10 @@
   
   
   #Resource Packs List 
+  
+   UI Resource Packs List :
+   - Death Screen ปรับให้มีปุ่ม Respawn อย่างเดี่ยว
+   - 
   
   Painting Resource Packs List :
   - painting รูปภาพภายใน Sever
