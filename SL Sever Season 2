@@ -35,11 +35,11 @@
   - Ghast ลดเลือด / ลดความเร็ว
   - 
   
-  Block AddonPack List :
+ Block AddonPack List :
   - Block Sleeplite 
   -
   
-  Crafting AddonPack List :
+ Crafting AddonPack List :
   - blocks
   - furnace
   - wool
@@ -48,7 +48,7 @@
   - Crafting อีก 100 กว่าสูตรคราฟ
   -
   
-  Nametag AddonPack List :
+ Nametag AddonPack List :
   - chicken โชว์ชื่อตลอด เวลาใส่ Nametag 
   - Cow โชว์ชื่อตลอด เวลาใส่ Nametag 
   - iron_golem โชว์ชื่อตลอด เวลาใส่ Nametag 
@@ -62,15 +62,15 @@
   
   #Resource Packs List 
   
-   UI Resource Packs List :
+  UI Resource Packs List :
    - Death Screen ปรับให้มีปุ่ม Respawn อย่างเดี่ยว
    - 
   
   Painting Resource Packs List :
-  - painting รูปภาพภายใน Sever
-  -
+   - painting รูปภาพภายใน Sever
+   -
   
-  record Resource Packs List :
+ record Resource Packs List :
   - dis 13 เพลง
   - dis 11 เพลง
   - dis Cat เพลง
@@ -86,7 +86,7 @@
   - dis Wait เพลง
   -
   
-  Txext Resource Packs List :
+ Txext Resource Packs List :
   - en_US รับรองเฉพาะ ถาษา US
   - sleeplite Block - special
   - Totem of Undying - Magnet
