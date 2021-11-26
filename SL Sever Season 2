@@ -1,37 +1,82 @@
-### ข้อมูลเบื้องต้นของ iSMP Server
-iSMP Server ใช้ Fabric ในการรันเซิร์ฟเวอร์ ซึ่งจะลง Mod บางตัวเอาไว้ ส่วนใหญ่จะเป็นการแก้บั๊กเล็ก ๆ น้อย ๆ ไม่ได้เปลี่ยน Gameplay มากนัก
-ภาพรวมเราจะเรียกว่า AddonPack Vanilla และยังมี AddonPack เข้ามาเสริมด้วย
 
-* Minecraft Version : 1.17.41
-* Server : Fabric
-* Seed : `-7379792621391092139` (Shadow Seed)
+ # ข้อมูลเบื้องต้นของ Sleeplite Season 2 Server
+  Sleeplite Server ใช้ ?ในการรันเซิร์ฟเวอร์ ซึ่งจะลง AddonPack ไว้แล้วไม่ได้เปลี่ยน Gameplay มากนัก
+    ภาพรวมเราจะเรียกว่า AddonPack Vanilla 
 
-### AddonPack List :
-- Cave and Cliffs Preview (Cave Gen Mod Built-in)
-- [Vanilla Tweaks](https://vanillatweaks.net/)
-   * AFK Display
-   * Armor Statues
-   * Cauldron Concrete
-   * Wandering Trades
-
-### Private AddonPack List :
-- Inventory Packs
-    * Recipes ต่าง ๆ
-    * Entity Drops
-      - Ender Dragon ดรอป Elytra/Dragon Head
-      - Player ดรอปหัว
-      - Shulker ดรอป 2 Shulker Shell และสุ่มดรอป Shulker Box
-- Faster Break Block by RKGz
+ Minecraft BedRock Version : 1.17.41
+ Server : ?
+ Seed : 
 
 
-### Cave Gen
-ดัดแปลงจากตัวต้นแบบของ SuperCoder7979 และปรับให้ Dripstone/Lush Cave เจอง่ายขึ้น
-- แก้บั๊ก Built-in Structure ไม่เจนกล่องหรือ Block Entity
-- Lush Cave เจอได้ในไบโอม Forest, Flower Forest, Birch Forest, Dark Forest, Jungle, Mushroom Island
-- Dripstone Cave เจอได้ในไบโอมจำพวก Extreme Hills, Taiga, Mesa, Desert, Icy, Savanna, Swamp
-- ทำให้ฝนหรือหิมะไม่ตกใน Biome ถ้ำ
-- แก้บั๊กฝนหรือหิมะ Render ไม่ถูกต้อง
+ #AddonPack List 
+ 
+ PLayer AddonPack List :
+  - Stick สามารถ Zoom ได้
+  - Stone_axe สามารถ ตัดต้นไม้หายทั้งต้น
+  - Totem_of_undying สามารถ ดูดไอเทมได้
+  - Nautilus_shell สามารถ ได้night_vision 
+  - Bed สามารถ นอนคนเดี่ยวได้
 
-### iSMPUtils
-- แก้ให้ Skull ดรอปพร้อม Custom Name
-- 
+ Entitie AddonPack List :
+  - Ender Dragon ดรอป Elytra / Dragon Egg
+  - creeper ดรอป Gunpowder 2 เท่า
+  - Shulker ดรอป 2 Shulker Shell และสุ่มดรอป Shulker Box
+  - Donkey / Horse / Mule / Skeleton_horse / Strider สามารถขี่ได้ 2 คน
+  - fishing ดรอป treasure ง่ายขึ้น
+  - Wandering_Trader ปรับการซื้อของ
+  - Villager ปรับการซื้อของ ทุกตัว
+  - 
+  
+  Block AddonPack List :
+  - Block Sleeplite 
+  
+  Crafting AddonPack List :
+  - blocks
+  - furnace
+  - wool
+  - specials
+  - stonecutters
+  - Crafting อีก 100 กว่าสูตรคราฟ
+  
+  Nametag AddonPack List :
+  - chicken โชว์ชื่อตลอด เวลาใส่ Nametag 
+  - Cow โชว์ชื่อตลอด เวลาใส่ Nametag 
+  - iron_golem โชว์ชื่อตลอด เวลาใส่ Nametag 
+  - sheep โชว์ชื่อตลอด เวลาใส่ Nametag 
+  - snow_golem โชว์ชื่อตลอด เวลาใส่ Nametag 
+  - villager โชว์ชื่อตลอด เวลาใส่ Nametag 
+  - wolf โชว์ชื่อตลอด เวลาใส่ Nametag 
+  - zombie_villager โชว์ชื่อตลอด เวลาใส่ Nametag 
+  
+  
+  #Resource Packs List 
+  
+  Painting Resource Packs List :
+  - painting รูปภาพภายใน Sever
+  
+  record Resource Packs List :
+  - dis 13 เพลง
+  - dis 11 เพลง
+  - dis Cat เพลง
+  - dis Blocks เพลง
+  - dis Chirp เพลง
+  - dis Far เพลง 
+  - dis Mall เพลง
+  - dis Mellohi เพลง
+  - dis Stal เพลง
+  - dis Stal เพลง
+  - dis Strad เพลง
+  - dis Ward เพลง
+  - dis Wait เพลง
+  
+  Txext Resource Packs List :
+  - en_US รับรองเฉพาะ ถาษา US
+  - sleeplite Block - special
+  - Totem of Undying - Magnet
+  - Stone Axe - Cut Wood
+  - Nautilus Shell - Night Vision
+  - Dragon Elytra
+  - Diamond - Money
+  - TNT - Dangerous
+  -  Stick - Zoom
+  - Items และอื่นๆ
