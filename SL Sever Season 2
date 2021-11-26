@@ -11,21 +11,21 @@
  #AddonPack List 
  
  PLayer AddonPack List :
-  - Stick            สามารถ Zoom ได้
-  - Stone_axe        สามารถ ตัดต้นไม้หายทั้งต้น
+  - Stick สามารถ Zoom ได้
+  - Stone_axe สามารถ ตัดต้นไม้หายทั้งต้น
   - Totem_of_undying สามารถ ดูดไอเทมได้
-  - Nautilus_shell   สามารถ ได้ night_vision 
-  - Bed              สามารถ นอนคนเดี่ยวได้
+  - Nautilus_shell สามารถ ได้ night_vision 
+  - Bed สามารถ นอนคนเดี่ยวได้
   -
 
  Entitie AddonPack List :
-  - Ender Dragon                 ดรอป Elytra / Dragon Egg
-  - creeper                      ดรอป Gunpowder 2 เท่า
+  - Ender Dragon ดรอป Elytra / Dragon Egg
+  - creeper ดรอป Gunpowder 2 เท่า
   - Shulker ดรอป 2 Shulker Shell และสุ่มดรอป Shulker Box
   - Donkey / Horse / Mule / Skeleton_horse / Strider สามารถขี่ได้ 2 คน
-  - fishing                      ดรอป treasure ง่ายขึ้น
-  - Wandering_Trader             ปรับการซื้อของ
-  - Villager                     ปรับการซื้อของ ทุกตัว
+  - fishing ดรอป treasure ง่ายขึ้น
+  - Wandering_Trader ปรับการซื้อของ
+  - Villager ปรับการซื้อของ ทุกตัว
   - 
   
   Block AddonPack List :
@@ -42,13 +42,13 @@
   -
   
   Nametag AddonPack List :
-  - chicken    โชว์ชื่อตลอด เวลาใส่ Nametag 
-  - Cow        โชว์ชื่อตลอด เวลาใส่ Nametag 
+  - chicken โชว์ชื่อตลอด เวลาใส่ Nametag 
+  - Cow โชว์ชื่อตลอด เวลาใส่ Nametag 
   - iron_golem โชว์ชื่อตลอด เวลาใส่ Nametag 
-  - sheep      โชว์ชื่อตลอด เวลาใส่ Nametag 
+  - sheep โชว์ชื่อตลอด เวลาใส่ Nametag 
   - snow_golem โชว์ชื่อตลอด เวลาใส่ Nametag 
-  - villager   โชว์ชื่อตลอด เวลาใส่ Nametag 
-  - wolf       โชว์ชื่อตลอด เวลาใส่ Nametag 
+  - villager โชว์ชื่อตลอด เวลาใส่ Nametag 
+  - wolf โชว์ชื่อตลอด เวลาใส่ Nametag 
   - zombie_villager โชว์ชื่อตลอด เวลาใส่ Nametag 
   -
   
