@@ -1,15 +1,19 @@
-Discord Sleeplite : https://discord.io/Sleeplite
-Discord Myword : https://discord.gg/sHes2mUUBb
-Discord Universe Survival : https://discord.gg/rB9f8uvMBf
+ 
+#Discord
+ Discord Sleeplite : https://discord.io/Sleeplite
+ Discord Myword : https://discord.gg/sHes2mUUBb
+ Discord Universe Survival : https://discord.gg/rB9f8uvMBf
 
- # ข้อมูลเบื้องต้นของ Colab Server
+#ข้อมูลเบื้องต้นของ Colab Server
  Colab Server ใช้ ? ในการรันเซิร์ฟเวอร์ ซึ่งจะลง AddonPack ไว้
  ภาพรวม AddonPack นี้เราจะเรียกว่า AddonPack Vanilla 
 
  Minecraft BedRock Version : 1.18.
  Server : ?
  Seed : ?
-
+ 
+Maint Addpack : mb.
+Maint Resource Packs : md.
 
  #AddonPack List 
  
@@ -51,17 +55,15 @@ Discord Universe Survival : https://discord.gg/rB9f8uvMBf
   - Record สามารถ Stack 16 item ทุกแผ่นเสียง
   -
   
- Block AddonPack List :
-  - Block Sleeplite 
-  -
-  
  Crafting AddonPack List :
-  - blocks
-  - furnace
-  - wool
-  - specials
-  - stonecutters
-  - Crafting อีก 100 กว่าสูตร
+  - wood เช่น
+  - furnace เช่น
+  - blast furnace เช่น
+  - blast_furnace เช่น
+  - wool  เช่น
+  - specials เช่น
+  - stonecutters เช่น
+  - Crafting และอีก 1000 กว่ารูปแบบ
   -
   
  Nametag AddonPack List :
@@ -91,7 +93,6 @@ Discord Universe Survival : https://discord.gg/rB9f8uvMBf
   - wandering trader trades ปรับการขายใหม่ทั้งหมด 
   - เช่น firework rocket anvil hopper log axolotl_bucket
   -
-  
   
  Block Sever AddonPack List :
   - Sleep lite
