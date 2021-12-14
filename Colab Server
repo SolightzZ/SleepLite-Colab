@@ -1,6 +1,6 @@
 Discord Sleeplite : https://discord.io/Sleeplite
 Discord Myword : https://discord.gg/sHes2mUUBb
-Discord  Universe Survival : https://discord.gg/rB9f8uvMBf
+Discord Universe Survival : https://discord.gg/rB9f8uvMBf
 
  # ข้อมูลเบื้องต้นของ Colab Server
  Colab Server ใช้ ? ในการรันเซิร์ฟเวอร์ ซึ่งจะลง AddonPack ไว้
@@ -22,13 +22,10 @@ Discord  Universe Survival : https://discord.gg/rB9f8uvMBf
   -
 
  Entitie AddonPack List :
-  - Ender Dragon ดรอป Elytra / Dragon Egg
-  - creeper ดรอป Gunpowder 2 เท่า
-  - Shulker ดรอป 2 ชิ้น Shulker Shell 
   - Donkey / Horse / Mule / Skeleton_horse / Strider / llama / donkey สามารถขี่ได้ 2 คน
-  - Horse สามารถใส่กล่องได้
-  - llama สามารถใส่ 
-  - ravager สามารถ ขี่ได้ ( 1 คน )
+  - Horse สามารถใส่ Chest ได้
+  - llama สามารถใส่ carpet แล้วบังคับได้
+  - ravager สามารถ ขี่ได้ และ บังคับได้ ( 1 คน )
   - fishing ดรอป treasure ง่ายขึ้น
   - Wandering_Trader ปรับการซื้อของ
   - Villager ปรับการซื้อของ ทุกตัว
@@ -78,37 +75,56 @@ Discord  Universe Survival : https://discord.gg/rB9f8uvMBf
   -
   
  Loot tables AddonPack List :
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  
-  Trading AddonPack List :
-  -
-  -
+  - treasure ปกติ 5% เพิ่มโอกาศ 40%
+  - fish ปกติ 85% ลดโอกาศ -40%
+  - junk ปกติ 10% 
+  - bow fishing book enchant เพิ่มโอกาศได้ง่ายขึ้น 30% - 50%
+  - clownfish  เพิ่มโอกาศ 40%
+  - pufferfish  เพิ่มโอกาศ 40%
+  - salmon   เพิ่มโอกาศ 40%
+   - Ender Dragon ดรอป Elytra / Dragon Egg
+  - creeper ดรอป Gunpowder 2 เท่า
+  - Shulker ดรอป 2 ชิ้น Shulker Shell 
   -
   
+ Trading AddonPack List :
+  - wandering trader trades ปรับการขายใหม่ทั้งหมด 
+  - เช่น firework rocket anvil hopper log axolotl_bucket
+  -
   
-  Block AddonPack List :
-  -
-  -
-  -
   
+ Block Sever AddonPack List :
+  - Sleep lite
+  - MyWord 
+  - Universe Survival
+  
+ Block Player AddonPack List :
+  - SolightzZ
+  - GusGrss
+  - Fahad
+  - Reverse
+  - Sao
+  - Tunazazaza
+  - Zeemon
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
   
   
   #Resource Packs List 
   
   UI Resource Packs List :
-   - Death Screen ปรับให้มีปุ่ม Respawn อย่างเดี่ยว
-   - 
+  - Death Screen ปรับให้มีปุ่ม Respawn อย่างเดี่ยว 
+  - 
   
   Painting Resource Packs List :
-   - painting รูปภาพภายใน Sever
-   -
+  - painting รูปภาพภายใน Sever
+  -
   
   Resource Packs List :
   - horse ทำให้เห็น Texture การใส่กล่อง
