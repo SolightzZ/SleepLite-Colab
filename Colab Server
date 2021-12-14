@@ -1,10 +1,12 @@
-Discord Sleeplite https://discord.io/Sleeplite
+Discord Sleeplite : https://discord.io/Sleeplite
+Discord Myword : https://discord.gg/sHes2mUUBb
+Discord  Universe Survival : https://discord.gg/rB9f8uvMBf
 
- # ข้อมูลเบื้องต้นของ Sleeplite Season 2 Server
-  Sleeplite Server ใช้ ? ในการรันเซิร์ฟเวอร์ ซึ่งจะลง AddonPack ไว้แล้วไม่ได้เปลี่ยน Gameplay มากนัก
-  ภาพรวมเราจะเรียกว่า AddonPack Vanilla 
+ # ข้อมูลเบื้องต้นของ Colab Server
+ Colab Server ใช้ ? ในการรันเซิร์ฟเวอร์ ซึ่งจะลง AddonPack ไว้
+ ภาพรวม AddonPack นี้เราจะเรียกว่า AddonPack Vanilla 
 
- Minecraft BedRock Version : ?
+ Minecraft BedRock Version : 1.18.
  Server : ?
  Seed : ?
 
@@ -12,28 +14,26 @@ Discord Sleeplite https://discord.io/Sleeplite
  #AddonPack List 
  
  PLayer AddonPack List :
-  - Stick สามารถ Zoom ได้
   - Stone_axe สามารถ ตัดต้นไม้หายทั้งต้น
   - Totem_of_undying สามารถ ดูดไอเทมได้
   - Nautilus_shell สามารถ ได้ night_vision 
   - Bed สามารถ นอนคนเดี่ยวได้
+  - Death Count นับจำนวนการตาย
   -
 
  Entitie AddonPack List :
   - Ender Dragon ดรอป Elytra / Dragon Egg
   - creeper ดรอป Gunpowder 2 เท่า
-  - Shulker ดรอป 2 Shulker Shell 
-  - Donkey / Horse / Mule / Skeleton_horse / Strider สามารถขี่ได้ 2 คน
+  - Shulker ดรอป 2 ชิ้น Shulker Shell 
+  - Donkey / Horse / Mule / Skeleton_horse / Strider / llama / donkey สามารถขี่ได้ 2 คน
+  - Horse สามารถใส่กล่องได้
+  - llama สามารถใส่ 
+  - ravager สามารถ ขี่ได้ ( 1 คน )
   - fishing ดรอป treasure ง่ายขึ้น
   - Wandering_Trader ปรับการซื้อของ
   - Villager ปรับการซื้อของ ทุกตัว
-  - zombie ลดความเร็ว / ลดดาเมจ
-  - spider เพิ่มเลือด / เพิ่มดาเมจ
-  - slime ลดดาเมจ / ลดเลือด
-  - magma cube  ลดดาเมจ / ลดเลือด
-  - creeper ลดเลือด / ลดความเร็ว
-  - vex ลดเลือด / ลดความเร็ว
-  - Ghast ลดเลือด / ลดความเร็ว
+  - magma cube ไม่มีดาเมจเมื่อ ตัวเล้ก 
+  - creeper ลดเลือด
   - 
   
  Items Stack  AddonPack List : 
@@ -50,7 +50,6 @@ Discord Sleeplite https://discord.io/Sleeplite
   - Snowball สามารถ Stack 64 item
   - Splash potion สามารถ Stack 64 item
   - Tnt minecart สามารถ Stack 16 item
-  - Totem สามารถ Stack 16 item
   - Writable book สามารถ Stack 64 item
   - Record สามารถ Stack 16 item ทุกแผ่นเสียง
   -
@@ -71,13 +70,34 @@ Discord Sleeplite https://discord.io/Sleeplite
  Nametag AddonPack List :
   - chicken โชว์ชื่อตลอด เวลาใส่ Nametag 
   - Cow โชว์ชื่อตลอด เวลาใส่ Nametag 
-  - iron_golem โชว์ชื่อตลอด เวลาใส่ Nametag 
   - sheep โชว์ชื่อตลอด เวลาใส่ Nametag 
-  - snow_golem โชว์ชื่อตลอด เวลาใส่ Nametag 
-  - villager โชว์ชื่อตลอด เวลาใส่ Nametag 
   - wolf โชว์ชื่อตลอด เวลาใส่ Nametag 
-  - zombie_villager โชว์ชื่อตลอด เวลาใส่ Nametag 
+  - villager โชว์ชื่อตลอด เวลาใส่ Nametag 
+  
+  - floating_text โชว์ชื่อตลอด Entitie พิเศษ
   -
+  
+ Loot tables AddonPack List :
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  
+  Trading AddonPack List :
+  -
+  -
+  -
+  
+  
+  Block AddonPack List :
+  -
+  -
+  -
+  
   
   
   #Resource Packs List 
@@ -89,6 +109,10 @@ Discord Sleeplite https://discord.io/Sleeplite
   Painting Resource Packs List :
    - painting รูปภาพภายใน Sever
    -
+  
+  Resource Packs List :
+  - horse ทำให้เห็น Texture การใส่กล่อง
+  -
   
  record Resource Packs List :
   - dis 13 เพลง
@@ -115,6 +139,5 @@ Discord Sleeplite https://discord.io/Sleeplite
   - Dragon Elytra
   - Diamond - Money
   - TNT - Dangerous
-  -  Stick - Zoom
   - Items และอื่นๆ
   -
