@@ -5,15 +5,15 @@
  Discord Universe Survival : https://discord.gg/rB9f8uvMBf
 
 #ข้อมูลเบื้องต้นของ Colab Server
- Colab Server ใช้ ? ในการรันเซิร์ฟเวอร์ ซึ่งจะลง AddonPack ไว้
- ภาพรวม AddonPack นี้เราจะเรียกว่า AddonPack Vanilla 
+  Colab Server ใช้ ? ในการรันเซิร์ฟเวอร์ ซึ่งจะลง AddonPack ไว้
+  ภาพรวม AddonPack นี้เราจะเรียกว่า AddonPack Vanilla 
 
- Minecraft BedRock Version : 1.18.
- Server : ?
- Seed : ?
+  Minecraft BedRock Version : 1.18.
+  Server : ?
+  Seed : ?
  
-Maint Addpack : mb.
-Maint Resource Packs : md.
+ Maint Addpack : 1.26 mb.
+ Maint Resource Packs : md.
 
  #AddonPack List 
  
@@ -31,11 +31,9 @@ Maint Resource Packs : md.
   - Horse สามารถใส่ Chest ได้
   - llama สามารถใส่ carpet แล้วบังคับได้
   - ravager สามารถ ขี่ได้ และ บังคับได้ ( 1 คน )
-  - fishing ดรอป treasure ง่ายขึ้น
-  - Wandering_Trader ปรับการซื้อของ
   - Villager ปรับการซื้อของ ทุกตัว
   - magma cube ไม่มีดาเมจเมื่อ ตัวเล้ก 
-  - creeper ลดเลือด
+  - creeper ลดเลือด เพิ่มการดรอป gunpowder 2 เท่า
   - 
   
  Items Stack  AddonPack List : 
@@ -44,7 +42,8 @@ Maint Resource Packs : md.
   - Chest Minecart สามารถ Stack 16 item
   - Ender Pearl สามารถ Stack 64 item
   - Honey bottle สามารถ Stack 40 item
-  - Hopper minecartdiamond / horsearmorgold / horsearmoriron / horsearmorleather > สามารถ Stack 16 item ทุก horsearmor
+  - Hopperminecart สามารถ Stack 16 item
+  - horsearmordiamond / horsearmorgold / horsearmoriron / horsearmorleather > สามารถ Stack 16 item 
   - Lingering potion สามารถ Stack 64 item
   - Minecart สามารถ Stack 16 item
   - Potion สามารถ Stack 64 item
@@ -61,7 +60,6 @@ Maint Resource Packs : md.
   - furnace เช่น
   - blast furnace เช่น
   - blast_furnace เช่น
-  - wool  เช่น
   - specials เช่น
   - stonecutters เช่น
   - Crafting และอีก 1000 กว่ารูปแบบ
@@ -80,11 +78,10 @@ Maint Resource Packs : md.
  Loot tables AddonPack List :
   - treasure ปกติ 5% เพิ่มโอกาศ 40%
   - fish ปกติ 85% ลดโอกาศ -40%
-  - junk ปกติ 10% 
   - bow fishing book enchant เพิ่มโอกาศได้ง่ายขึ้น 30% - 50%
   - clownfish  เพิ่มโอกาศ 40%
   - pufferfish  เพิ่มโอกาศ 40%
-  - salmon   เพิ่มโอกาศ 40%
+  - salmon  เพิ่มโอกาศ 40%
    - Ender Dragon ดรอป Elytra / Dragon Egg
   - creeper ดรอป Gunpowder 2 เท่า
   - Shulker ดรอป 2 ชิ้น Shulker Shell 
@@ -117,8 +114,17 @@ Maint Resource Packs : md.
   -
   -
   
+ Loot Tables Chest AddonPack List :
+  - buriedtreasure มี IronBlock / GoldBlock สามารถหาได้ในกล่อง diamond shovel axe pickaxe / axolotl
+  - end city treasure มี IronBlock / GoldBlock สามารถหาได้ในกล่อง totem / shulkershell 
+  - igloo chest ปรับการ เพิ่ม item
+  - jungle temple ปรับการ เพิ่ม item
+  - monster room ปรับการ เพิ่ม item
+  - stronghold library ปรับการ เพิ่ม item
+  -
   
-  #Resource Packs List 
+  
+#Resource Packs List 
   
   UI Resource Packs List :
   - Death Screen ปรับให้มีปุ่ม Respawn อย่างเดี่ยว 
