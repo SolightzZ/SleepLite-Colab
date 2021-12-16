@@ -56,12 +56,13 @@
   -
   
  Crafting AddonPack List :
-  - wood เช่น
-  - furnace เช่น
-  - blast furnace เช่น
-  - blast_furnace เช่น
-  - specials เช่น
-  - stonecutters เช่น
+  - result เช่น stripped / chest / furnace / door / scaffolding / stick / gravel / damagedanvil / slab / trapdoor / ironbar / torch
+  - furnace เช่น rottenflesh / flint
+  - smoker furnace เช่น poisonouspotato / rottenflesh 
+  - blast_furnace เช่น raw gold/iron/copper cobblestone stoneblock sand gravel netherrack 
+  - crafting table items เช่น enchantedgoldenapple / totem / horsearmor / glowberries / trident 
+  - crafting table blocks เช่น amethystblock / lightblock / calcite / dripstoneblock / stoneblock / cobblestone
+  - stonecutters เช่น log / plank / stone / customblock
   - Crafting และอีก 1000 กว่ารูปแบบ
   -
   
@@ -87,17 +88,17 @@
   - Shulker ดรอป 2 ชิ้น Shulker Shell 
   -
   
- Trading AddonPack List :
+ Custom Trading AddonPack List :
   - wandering trader trades ปรับการขายใหม่ทั้งหมด 
-  - เช่น firework rocket anvil hopper log axolotl_bucket
+  - เช่น firework / rocket / anvil / hopper / log / axolotl_bucket
   -
   
- Block Sever AddonPack List :
+ Custom Block Sever AddonPack List :
   - Sleep lite
   - MyWord 
   - Universe Survival
   
- Block Player AddonPack List :
+ Custom Block Player AddonPack List :
   - SolightzZ
   - GusGrss
   - Fahad
