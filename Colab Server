@@ -68,12 +68,8 @@
   
  Nametag AddonPack List :
   - chicken โชว์ชื่อตลอด เวลาใส่ Nametag 
-  - Cow โชว์ชื่อตลอด เวลาใส่ Nametag 
-  - sheep โชว์ชื่อตลอด เวลาใส่ Nametag 
   - wolf โชว์ชื่อตลอด เวลาใส่ Nametag 
-  - villager โชว์ชื่อตลอด เวลาใส่ Nametag 
-  
-  - floating_text โชว์ชื่อตลอด Entitie พิเศษ
+  - floating text โชว์ชื่อตลอด Entitie พิเศษ
   -
   
  Loot tables AddonPack List :
@@ -100,7 +96,7 @@
   
  Custom Block Player AddonPack List :
   - SolightzZ
-  - GusGrss
+  - GusGreen
   - Fahad
   - Reverse
   - Sao
