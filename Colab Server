@@ -11,6 +11,7 @@
   Minecraft BedRock Version : 1.18.
   Server : ?
   Seed : ?
+  Player : 15 
  
  Maint Addpack : 1.26 mb.
  Maint Resource Packs : md.
@@ -79,14 +80,30 @@
   - clownfish  เพิ่มโอกาศ 40%
   - pufferfish  เพิ่มโอกาศ 40%
   - salmon  เพิ่มโอกาศ 40%
-   - Ender Dragon ดรอป Elytra / Dragon Egg
+  - Ender Dragon ดรอป Dragon Egg / Elytra 1 ดรอปแบบสุ่ม
   - creeper ดรอป Gunpowder 2 เท่า
-  - Shulker ดรอป 2 ชิ้น Shulker Shell 
+  - Shulker ดรอป 2 ชิ้น Shulker Shell / Shulker Box 1 ดรอปแบบสุ่ม
   -
   
- Custom Trading AddonPack List :
+ Trading AddonPack List :
   - wandering trader trades ปรับการขายใหม่ทั้งหมด 
   - เช่น firework / rocket / anvil / hopper / log / axolotl_bucket
+  -
+  
+ Custom Head  Player AddonPack List :
+  - SolightzZ
+  - GusGreen
+  - Fahad
+  - Reverse
+  - Sao
+  - Tunazazaza
+  - Zeemon
+  -
+  -
+  -
+  -
+  -
+  -
   -
   
  Custom Block Sever AddonPack List :
@@ -163,7 +180,23 @@
   - Items และอื่นๆ
   -
   
-   
+Player List :
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+ 
+ 
   #ระบทั้งหมดมีการหามา เเละ เขียนเอง ผสมกันอยู่ 
   - เช่น สูตรคราฟ และ Entitie บางตัว
   
