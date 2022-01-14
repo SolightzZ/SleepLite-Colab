@@ -35,7 +35,10 @@
   - Villager ปรับการซื้อของ ทุกตัว
   - magma cube ไม่มีดาเมจเมื่อ ตัวเล้ก 
   - creeper ลดเลือด เพิ่มการดรอป gunpowder 2 เท่า
-  - 
+  - hopper minecart ใส่เชือก ลากได้
+  - minecart ใส่เชือก ลากได้
+  = chest minecart ใส่เชือก ลากได้
+  -
   
  Items Stack  AddonPack List : 
   - Boat สามารถ Stack 16 item
