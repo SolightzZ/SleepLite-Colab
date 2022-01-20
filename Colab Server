@@ -8,10 +8,10 @@
   Colab Server ใช้ ? ในการรันเซิร์ฟเวอร์ ซึ่งจะลง AddonPack ไว้
   ภาพรวม AddonPack นี้เราจะเรียกว่า AddonPack Vanilla 
 
-  Minecraft BedRock Version : 1.18.
-  Server : ?
-  Seed : ?
-  Player : 15 
+  Minecraft BedRock Version : 1.18.2
+  Server : Colab Sever
+  Seed : -1248288233
+  Player : 11/25
  
  Maint Addpack : 1.26 mb.
  Maint Resource Packs : md.
@@ -19,7 +19,7 @@
  #AddonPack List 
  
  PLayer AddonPack List :
-  - Stone_axe สามารถ ตัดต้นไม้หายทั้งต้น
+  - Stone_axe สามารถ ตัดต้นไม้หายทั้งต้น [ ระยะ 5 Bloack ]
   - Totem_of_undying สามารถ ดูดไอเทมได้
   - Nautilus_shell สามารถ ได้ night_vision 
   - Bed สามารถ นอนคนเดี่ยวได้
@@ -94,42 +94,13 @@
   -
   
  Custom Head Player AddonPack List :
-  - SolightzZ
-  - GusGreen
-  - Fahad
-  - Reverse
-  - Sao
-  - Tunazazaza
-  - Zeemon
-  -
-  -
-  -
-  -
-  -
-  -
-  -
+ - ผู้เล่น
+ -
   
  Custom Block Sever AddonPack List :
   - Sleep lite
   - MyWord 
   - Universe Survival
-  
- Custom Block Player AddonPack List :
-  - SolightzZ
-  - GusGreen
-  - Fahad
-  - Reverse
-  - Sao
-  - Tunazazaza
-  - Zeemon
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
   
  Loot Tables Chest AddonPack List :
   - buriedtreasure มี IronBlock / GoldBlock สามารถหาได้ในกล่อง diamond shovel axe pickaxe / axolotl
@@ -200,6 +171,7 @@ Player List :
   -
  
  
-  #ระบทั้งหมดมีการหามา เเละ เขียนเอง ผสมกันอยู่ 
+  #ระบทั้งหมดมีการหามา เเละ เขียนเอง ผสมกันอยู่ เเต่ส่วนมากเขียนเอา
   - เช่น สูตรคราฟ และ Entitie บางตัว
+  - เรื่องเเจก ใช้ให้คุ้มก่อน เดี่ยวมีเอง
   
