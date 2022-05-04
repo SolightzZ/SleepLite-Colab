@@ -17,15 +17,12 @@
   Seed : -1248288233
   Player : 11/25
   Sever : http://sv.mcsv.fun/
- 
- Maint Addpack : 1.26 mb.
- Maint Resource Packs : md.
 
  #AddonPack List 
  
  PLayer AddonPack List :
   - Stone_axe สามารถ ตัดต้นไม้หายทั้งต้น [ ระยะ 5 Bloack ]
-  - Totem_of_undying สามารถ ดูดไอเทมได้
+  - Turtle helmet สามารถ ดูดไอเทมได้ [ ระยะ 5 Bloack ]
   - Nautilus_shell สามารถ ได้ night_vision 
   - Bed สามารถ นอนคนเดี่ยวได้
   - Death Count นับจำนวนการตาย
@@ -38,30 +35,7 @@
   - llama สามารถใส่ carpet แล้วบังคับได้
   - ravager สามารถ ขี่ได้ และ บังคับได้ ( 1 คน )
   - Villager ปรับการซื้อของ ทุกตัว
-  - magma cube ไม่มีดาเมจเมื่อ ตัวเล้ก 
   - creeper ลดเลือด เพิ่มการดรอป gunpowder 2 เท่า
-  - hopper minecart ใส่เชือก ลากได้
-  - minecart ใส่เชือก ลากได้
-  = chest minecart ใส่เชือก ลากได้
-  -
-  
- Items Stack  AddonPack List : 
-  - Boat สามารถ Stack 16 item
-  - Egg สามารถ Stack 64 item
-  - Chest Minecart สามารถ Stack 16 item
-  - Ender Pearl สามารถ Stack 64 item
-  - Honey bottle สามารถ Stack 40 item
-  - Hopperminecart สามารถ Stack 16 item
-  - horsearmordiamond / horsearmorgold / horsearmoriron / horsearmorleather > สามารถ Stack 16 item 
-  - Lingering potion สามารถ Stack 64 item
-  - Minecart สามารถ Stack 16 item
-  - Potion สามารถ Stack 64 item
-  - Saddle สามารถ Stack 16 item
-  - Snowball สามารถ Stack 64 item
-  - Splash potion สามารถ Stack 64 item
-  - Tnt minecart สามารถ Stack 16 item
-  - Writable book สามารถ Stack 64 item
-  - Record สามารถ Stack 16 item ทุกแผ่นเสียง
   -
   
  Crafting AddonPack List :
@@ -76,8 +50,6 @@
   -
   
  Nametag AddonPack List :
-  - chicken โชว์ชื่อตลอด เวลาใส่ Nametag 
-  - wolf โชว์ชื่อตลอด เวลาใส่ Nametag 
   - floating text โชว์ชื่อตลอด Entitie พิเศษ
   -
   
