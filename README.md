@@ -13,9 +13,13 @@
   ภาพรวม AddonPack นี้เราจะเรียกว่า AddonPack Vanilla 
 
   Minecraft BedRock Version : 1.18.31
+  
   Server : Colab Sever
-  Seed : -1248288233
+ 
+ Seed : -1248288233
+  
   Player : 11/25
+  
   Sever : http://sv.mcsv.fun/
 
  #AddonPack List 
