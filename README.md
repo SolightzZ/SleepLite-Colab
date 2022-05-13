@@ -13,13 +13,13 @@
   Colab Server ใช้ sv.mcsv.fun ในการรันเซิร์ฟเวอร์ ซึ่งจะลง AddonPack ไว้
   ภาพรวม AddonPack นี้เราจะเรียกว่า AddonPack Vanilla 
 
-  Minecraft BedRock Version : 1.18.31
+  Minecraft BedRock Version : 1.18.32
   
   Server : Colab Sever
  
  Seed : -1248288233
   
-  Player : 11/25
+  Player : 25
   
   Sever : http://sv.mcsv.fun/
 
